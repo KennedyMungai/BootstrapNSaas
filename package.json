@@ -1,0 +1,21 @@
+{
+  "name": "bootstrapnsaas",
+  "version": "1.0.0",
+  "description": "Intro to Bootstrap with Saas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KennedyMungai/FastAPIIntro/BootstrapNSaas"
+  },
+  "keywords": [
+    "Bootstrap",
+    "Saas",
+    "CSS",
+    "HTML"
+  ],
+  "author": "Kennedy Mungai",
+  "license": "ISC"
+}
